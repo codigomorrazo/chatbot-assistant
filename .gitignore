@@ -1,3 +1,6 @@
+# Directorio e ficheiros de configuracion
+conf/
+conf/.env
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
